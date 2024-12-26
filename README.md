@@ -40,7 +40,7 @@
 <h2>Installation</h2>
 <ol>
   <li>Clone this repository:
-    <pre><code>git clone https://github.com/Mohammad-Amin-Shikhani97/stone-paper-scissors.git</code></pre>
+    <pre><code>git clone https://github.com/Mohammad-Amin-Shikhani97/stone-paper-scissor.git</code></pre>
   </li>
   <li>Compile the program:
     <pre><code>g++ -o stone-paper-scissors Stone\ Paper\ Scissor.cpp</code></pre>
